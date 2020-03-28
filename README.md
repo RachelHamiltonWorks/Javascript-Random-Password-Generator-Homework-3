@@ -1,1 +1,1 @@
-# Javascript-Random-Password-Generator-Homework-3
+# Random Password Generator Javascript
